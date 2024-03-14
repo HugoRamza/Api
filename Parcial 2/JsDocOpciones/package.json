@@ -1,0 +1,20 @@
+{
+  "name": "jsdocbasico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "jsdoc -c jsdoc.json --readme README.md"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdoc": "^4.0.2"
+  },
+  "dependencies": {
+    "braintree-jsdoc-template": "^3.3.0",
+    "taffydb": "^2.7.3"
+  }
+}
