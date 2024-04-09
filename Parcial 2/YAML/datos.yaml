@@ -1,0 +1,16 @@
+# Ejemplo de datos en formato YAML
+personas:
+  - nombre: Juan
+    edad: 30
+    ciudad: Madrid
+  - nombre: María
+    edad: 25
+    ciudad: Barcelona
+
+libros:
+  - titulo: El Alquimista
+    autor: Paulo Coelho
+    año_publicacion: 1988
+  - titulo: Cien años de soledad
+    autor: Gabriel García Márquez
+    año_publicacion: 1967
