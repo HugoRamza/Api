@@ -1,0 +1,15 @@
+{
+  "name": "proyecto-maximo",
+  "version": "1.0.0",
+  "description": "Prueba de función para encontrar el máximo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test_maximo.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4"
+  }
+}
