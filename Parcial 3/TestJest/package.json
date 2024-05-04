@@ -1,0 +1,21 @@
+
+{
+  "name": "testjest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "miModulo.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "verbose": true,
+    "collectCoverage": true,
+    "coverageDirectory": "coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.0.0" 
+  }
+}
