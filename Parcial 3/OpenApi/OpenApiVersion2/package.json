@@ -1,0 +1,15 @@
+{
+  "name": "mi-proyecto",
+  "version": "1.0.0",
+  "description": "Proyecto con Swagger UI y Redoc",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "redoc": "^2.0.0-rc.62",
+    "swagger-themes": "^1.0.2",
+    "swagger-ui-express": "^4.1.6"
+  }
+}
