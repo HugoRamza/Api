@@ -1,0 +1,14 @@
+{
+  "name": "crud-api",
+  "version": "1.0.0",
+  "description": "Una simple API CRUD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.1.6"
+  }
+}
